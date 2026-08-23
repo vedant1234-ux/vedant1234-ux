@@ -7,18 +7,6 @@ I'm Vedant Warghade, a Full Stack Developer and Computer Engineering student at 
 🚀 Experienced in React, Node.js, MongoDB, Firebase, WordPress, and modern web technologies
 💼 Open to Full Stack and Software Engineering opportunities
 
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant1234-ux&theme=tokyonight&hide_border=true&layout=compact" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant1234-ux&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant1234-ux&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-## 📈 Contribution Graph
-
-[![Vedant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedant1234-ux&theme=tokyo-night)](https://github.com/vedant1234-ux)
-
 ## 💻 Tech Stack
 
 ### Frontend
